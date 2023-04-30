@@ -14,7 +14,7 @@ redirect_from:
 <!---->
 <!--Feel free to contact me at asc8 (at) stanford (dot) edu!-->
 
-Hi! I am a third-year undergraduate student at Beijing University of Posts and Telecommunications  majoring in cyberspace security student. Previously, I received a B.S. in mathematics and applied mathematicsalso at Beijing University of Posts and Telecommunications. My research lies at the interpretability and fairness on graph neural networks. 
+Hi! I am a third-year undergraduate student at Beijing University of Posts and Telecommunications majoring in cyberspace security student. Previously, I received a B.S. in mathematics and applied mathematicsalso at Beijing University of Posts and Telecommunications. My research lies at the interpretability and fairness on graph neural networks. 
 
 
 
