@@ -83,7 +83,7 @@ author:
   name             : "Yazheng Liu"
   avatar           : "profile.png"
   bio              : "Master student"
-  location         : "Beijing University of Posts and Telecommunications"
+  location         : "Beijing University of Posts \n\ and Telecommunications"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
