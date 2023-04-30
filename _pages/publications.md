@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
+permalink: /Research/
 author_profile: true
 ---
 
@@ -11,6 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<span style="color:CornflowerBlue">[A Differential Geometric View and Explainability of GNN on Evolving Graphs](https://openreview.net/pdf?id=lRdhvzMpVYV)</span>  
+   <sup>**Yazheng Liu**, Xi Zhang, Sihong Xie <br>
+   ***International Conference on Learning Representations (ICLR), 2023*** <br>
+  We embed the manifold of GNN predicted distributions and devise the convex optimization to select important paths to explain the evolving graphs in the GNN.
+
+
+
