@@ -14,7 +14,5 @@ redirect_from:
 <!---->
 <!--Feel free to contact me at asc8 (at) stanford (dot) edu!-->
 
-Hi! I am a first-year PhD student at the Hong Kong University of Science and Technology(Guangzhou). Previously, I received my master’s degree at Beijing University of Posts and Telecommunications, majoring at Cyberspace Security. I also received a bachelor degree in mathematics and applied mathematics from the same school. My research lies at the intersection of graph neural network and its combinations with real-world applications. I am interested in explanations and multi-objective optimization of model. 
-
-
+Hi! I am a third-year PhD student at the Hong Kong University of Science and Technology(Guangzhou). Previously, I received my master’s degree at Beijing University of Posts and Telecommunications, majoring at Cyberspace Security. I also received a bachelor degree in mathematics and applied mathematics from the same school. My research interests lie in the explanations of graph models and large language models (LLMs).
 
